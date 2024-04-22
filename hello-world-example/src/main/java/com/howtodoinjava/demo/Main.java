@@ -14,7 +14,7 @@ public class Main extends ResourceConfig {
   public static final String BASE_URI = "http://localhost:8080/";
 
   public Main() {
-    packages("com.howtodoinjava.demo.resources");
+    packages("com.howtodoinjava.demo.web");
   }
 
   public static void main(String[] args) {

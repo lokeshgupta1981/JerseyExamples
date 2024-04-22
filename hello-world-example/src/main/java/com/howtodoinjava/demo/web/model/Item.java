@@ -1,4 +1,4 @@
-package com.howtodoinjava.demo.resources.model;
+package com.howtodoinjava.demo.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

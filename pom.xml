@@ -45,6 +45,7 @@
       <artifactId>jersey-container-servlet-core</artifactId>
       <version>${jersey.version}</version>
     </dependency>-->
+
     <dependency>
       <groupId>org.glassfish.jersey.containers</groupId>
       <artifactId>jersey-container-jetty-http</artifactId>
@@ -107,6 +108,7 @@
       <version>${junit.platform.version}</version>
       <scope>test</scope>
     </dependency>
+
   </dependencies>
 
   <build>
